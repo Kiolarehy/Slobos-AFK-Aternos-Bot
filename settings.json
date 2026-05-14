@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kiolarehy.aternos.me:52185",
+    "ip": "Kiolarehy.aternos.me",
     "port": 52185,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
